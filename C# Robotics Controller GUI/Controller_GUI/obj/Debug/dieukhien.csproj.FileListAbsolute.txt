@@ -1,0 +1,40 @@
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\bin\Debug\dieukhien.exe.config
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\bin\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\bin\Debug\dieukhien.pdb
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.csprojAssemblyReference.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.Properties.Resources.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.GenerateResource.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.CoreCompileInputs.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.pdb
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\visua\dieukhien\dieukhien\obj\Debug\dieukhien.giaodiendieukhien.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\bin\Debug\dieukhien.exe.config
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\bin\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\bin\Debug\dieukhien.pdb
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.csprojAssemblyReference.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.giaodiendieukhien.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.Properties.Resources.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.GenerateResource.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.CoreCompileInputs.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\MainFile\dieukhien\dieukhien\obj\Debug\dieukhien.pdb
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.exe.config
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.exe
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.pdb
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csprojAssemblyReference.cache
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.giaodiendieukhien.resources
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.Properties.Resources.resources
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.GenerateResource.cache
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.CoreCompileInputs.cache
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.exe
+E:\HK2 2019-2020\TTRobot\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.pdb
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.exe.config
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\bin\Debug\dieukhien.pdb
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csprojAssemblyReference.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.giaodiendieukhien.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.Properties.Resources.resources
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.GenerateResource.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.csproj.CoreCompileInputs.cache
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.exe
+D:\hoc_tap\Dai_hoc\hk2_nam3\TT_robot\code\codedieukhiendobot1\codedieukhiendobot\dieukhien\dieukhien\obj\Debug\dieukhien.pdb
